@@ -1,5 +1,5 @@
 # CafeApp
-It is commercial big app with firestore registration, cloud data base, interesting gestures, animations and with map.
+It is commercial big app with firestore registration, cloud data base, interesting gestures, animations and with map. Also it has bonus system with QR code Scanner and Cupons.
 
 Here are simple StartView and SignIn/Up Views:
 
